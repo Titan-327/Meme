@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+div{
+    text-align: center;
+    color: white;
+}
+#a{
+    border:5px solid white;
+   margin: 30px;
+}
+#b{
+    font-size: 20px;
+}
